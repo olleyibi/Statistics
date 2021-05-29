@@ -1,3 +1,3 @@
 # Statistics
 Different statistical method application
-Mini Assignment demonstrating Neural Networks Using R Language
+Mini Assignment demonstrating the Use of R Language
